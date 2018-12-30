@@ -16,7 +16,7 @@ eureka:
     
 ---
 server:
-  port: 8023
+  port: 8022
 spring:
   profiles: test        #测试环境
   application:
